@@ -1,0 +1,21 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "width": 1080,
+      "height": 1920
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Collision"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 3,
+      "1": 3
+    }
+  }
+}

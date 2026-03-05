@@ -1,0 +1,57 @@
+System.register(["cc"], function (_export, _context) {
+  "use strict";
+
+  var _cclegacy, _crd, EaseType;
+
+  return {
+    setters: [function (_cc) {
+      _cclegacy = _cc.cclegacy;
+    }],
+    execute: function () {
+      _crd = true;
+
+      _cclegacy._RF.push({}, "5a972kX6klMjIl2sZoA4FGu", "EaseType", undefined);
+
+      _export("EaseType", EaseType = /*#__PURE__*/function (EaseType) {
+        EaseType[EaseType["Linear"] = 0] = "Linear";
+        EaseType[EaseType["SineIn"] = 1] = "SineIn";
+        EaseType[EaseType["SineOut"] = 2] = "SineOut";
+        EaseType[EaseType["SineInOut"] = 3] = "SineInOut";
+        EaseType[EaseType["QuadIn"] = 4] = "QuadIn";
+        EaseType[EaseType["QuadOut"] = 5] = "QuadOut";
+        EaseType[EaseType["QuadInOut"] = 6] = "QuadInOut";
+        EaseType[EaseType["CubicIn"] = 7] = "CubicIn";
+        EaseType[EaseType["CubicOut"] = 8] = "CubicOut";
+        EaseType[EaseType["CubicInOut"] = 9] = "CubicInOut";
+        EaseType[EaseType["QuartIn"] = 10] = "QuartIn";
+        EaseType[EaseType["QuartOut"] = 11] = "QuartOut";
+        EaseType[EaseType["QuartInOut"] = 12] = "QuartInOut";
+        EaseType[EaseType["QuintIn"] = 13] = "QuintIn";
+        EaseType[EaseType["QuintOut"] = 14] = "QuintOut";
+        EaseType[EaseType["QuintInOut"] = 15] = "QuintInOut";
+        EaseType[EaseType["ExpoIn"] = 16] = "ExpoIn";
+        EaseType[EaseType["ExpoOut"] = 17] = "ExpoOut";
+        EaseType[EaseType["ExpoInOut"] = 18] = "ExpoInOut";
+        EaseType[EaseType["CircIn"] = 19] = "CircIn";
+        EaseType[EaseType["CircOut"] = 20] = "CircOut";
+        EaseType[EaseType["CircInOut"] = 21] = "CircInOut";
+        EaseType[EaseType["ElasticIn"] = 22] = "ElasticIn";
+        EaseType[EaseType["ElasticOut"] = 23] = "ElasticOut";
+        EaseType[EaseType["ElasticInOut"] = 24] = "ElasticInOut";
+        EaseType[EaseType["BackIn"] = 25] = "BackIn";
+        EaseType[EaseType["BackOut"] = 26] = "BackOut";
+        EaseType[EaseType["BackInOut"] = 27] = "BackInOut";
+        EaseType[EaseType["BounceIn"] = 28] = "BounceIn";
+        EaseType[EaseType["BounceOut"] = 29] = "BounceOut";
+        EaseType[EaseType["BounceInOut"] = 30] = "BounceInOut";
+        EaseType[EaseType["Custom"] = 31] = "Custom";
+        return EaseType;
+      }({}));
+
+      _cclegacy._RF.pop();
+
+      _crd = false;
+    }
+  };
+});
+//# sourceMappingURL=b815a1f644b7a7602a7881e670dba6e5187092cb.js.map

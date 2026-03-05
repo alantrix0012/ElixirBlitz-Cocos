@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "abcafedb-0deb-4be7-b766-137b79e6328c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "abcafedb-0deb-4be7-b766-137b79e6328c@6c48a",
+      "displayName": "21_Potion1",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "abcafedb-0deb-4be7-b766-137b79e6328c",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "abcafedb-0deb-4be7-b766-137b79e6328c@f9941",
+      "displayName": "21_Potion1",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 6,
+        "offsetY": -4,
+        "trimX": 12,
+        "trimY": 8,
+        "width": 191,
+        "height": 254,
+        "rawWidth": 203,
+        "rawHeight": 262,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -95.5,
+            -127,
+            0,
+            95.5,
+            -127,
+            0,
+            -95.5,
+            127,
+            0,
+            95.5,
+            127,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            12,
+            254,
+            203,
+            254,
+            12,
+            0,
+            203,
+            0
+          ],
+          "nuv": [
+            0.059113300492610835,
+            0,
+            1,
+            0,
+            0.059113300492610835,
+            0.9694656488549618,
+            1,
+            0.9694656488549618
+          ],
+          "minPos": [
+            -95.5,
+            -127,
+            0
+          ],
+          "maxPos": [
+            95.5,
+            127,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "abcafedb-0deb-4be7-b766-137b79e6328c@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "abcafedb-0deb-4be7-b766-137b79e6328c@f9941"
+  }
+}

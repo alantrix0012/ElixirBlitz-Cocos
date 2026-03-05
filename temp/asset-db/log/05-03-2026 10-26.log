@@ -1,0 +1,76 @@
+05-03-2026 10:26:19-debug: asset-db:worker-init (935ms)
+05-03-2026 10:26:19-debug: Preimport db internal success
+05-03-2026 10:26:19-debug: Preimport db assets success
+05-03-2026 10:26:19-debug: asset-db:worker-effect-data-processing (85ms)
+05-03-2026 10:26:21-debug: Set detail map pack:///resolution-detail-map.json: {}
+05-03-2026 10:26:21-debug: Start up the 'internal' database...
+05-03-2026 10:26:21-debug: asset-db:worker-init-script (1284ms)
+05-03-2026 10:26:21-debug: start asset-db with asset: 419
+05-03-2026 10:26:21-debug: Start up the 'assets' database...
+05-03-2026 10:26:21-debug: start asset-db with asset: 110
+05-03-2026 10:26:21-debug: asset-db:worker-startup-database[internal] (2229ms)
+05-03-2026 10:26:21-debug: Asset DB is ready!
+05-03-2026 10:26:21-debug: asset-db:worker-startup-database[assets] (2219ms)
+05-03-2026 10:26:21-debug: init worker message success
+05-03-2026 10:26:21-debug: builder:worker-init (95ms)
+05-03-2026 10:26:23-debug: programming:execute-script (2ms)
+05-03-2026 10:28:56-debug: refresh db internal success
+05-03-2026 10:28:56-debug: asset-db:worker-effect-data-processing (134ms)
+05-03-2026 10:28:56-debug: refresh db assets success
+05-03-2026 10:28:56-debug: asset-db:refresh-all-database (185ms)
+05-03-2026 10:29:06-debug: start refresh asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.ts...
+05-03-2026 10:29:06-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.tsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:29:06-debug: refresh asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers success
+05-03-2026 10:29:06-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managersbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:45:41-debug: refresh db internal success
+05-03-2026 10:45:41-debug: asset-db:worker-effect-data-processing (160ms)
+05-03-2026 10:45:41-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.tsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:45:41-debug: refresh db assets success
+05-03-2026 10:45:41-debug: asset-db:refresh-all-database (208ms)
+05-03-2026 10:46:40-debug: refresh db internal success
+05-03-2026 10:46:40-debug: asset-db:worker-effect-data-processing (126ms)
+05-03-2026 10:46:40-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.tsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:46:40-debug: refresh db assets success
+05-03-2026 10:46:40-debug: asset-db:refresh-all-database (164ms)
+05-03-2026 10:46:55-debug: refresh db internal success
+05-03-2026 10:46:55-debug: asset-db:worker-effect-data-processing (107ms)
+05-03-2026 10:46:55-debug: refresh db assets success
+05-03-2026 10:46:55-debug: asset-db:refresh-all-database (143ms)
+05-03-2026 10:47:02-debug: refresh db internal success
+05-03-2026 10:47:02-debug: asset-db:worker-effect-data-processing (147ms)
+05-03-2026 10:47:02-debug: refresh db assets success
+05-03-2026 10:47:02-debug: asset-db:refresh-all-database (181ms)
+05-03-2026 10:47:13-debug: refresh db internal success
+05-03-2026 10:47:13-debug: asset-db:worker-effect-data-processing (72ms)
+05-03-2026 10:47:13-debug: refresh db assets success
+05-03-2026 10:47:13-debug: asset-db:refresh-all-database (106ms)
+05-03-2026 10:47:19-debug: start move asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/Fairy GUI -> /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI...
+05-03-2026 10:47:19-debug: start refresh asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI...
+05-03-2026 10:47:19-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUIbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:47:19-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.d.tsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:47:19-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.min.mjsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:47:19-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.mjsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:47:19-debug: refresh asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins success
+05-03-2026 10:47:19-debug: start refresh asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins...
+05-03-2026 10:47:19-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Pluginsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:47:19-debug: refresh asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets success
+05-03-2026 10:47:19-debug: move asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/Fairy GUI -> /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI success
+05-03-2026 10:50:32-debug: refresh db internal success
+05-03-2026 10:50:32-debug: asset-db:worker-effect-data-processing (143ms)
+05-03-2026 10:50:32-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.tsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:50:32-debug: refresh db assets success
+05-03-2026 10:50:32-debug: asset-db:refresh-all-database (189ms)
+05-03-2026 10:50:37-debug: start remove asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.min.mjs...
+05-03-2026 10:50:37-debug: start refresh asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.min.mjs...
+05-03-2026 10:50:37-debug: %cDestroy%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.min.mjsbackground: #ffb8b8; color: #000;color: #000;
+05-03-2026 10:50:37-debug: refresh asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI success
+05-03-2026 10:50:37-debug: remove asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.min.mjs success
+05-03-2026 10:50:37-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUIbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:50:51-debug: refresh db internal success
+05-03-2026 10:50:51-debug: asset-db:worker-effect-data-processing (120ms)
+05-03-2026 10:50:51-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.tsbackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:50:51-debug: refresh db assets success
+05-03-2026 10:50:51-debug: asset-db:refresh-all-database (158ms)
+05-03-2026 10:51:02-debug: start refresh asset from /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene/Game.scene...
+05-03-2026 10:51:02-debug: %cImport%c: /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene/Game.scenebackground: #aaff85; color: #000;color: #000;
+05-03-2026 10:51:02-debug: refresh asset /Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene success

@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M4",
+        "version": "Darwin Kernel Version 25.0.0: Wed Sep 17 21:42:08 PDT 2025; root:xnu-12377.1.9~141/RELEASE_ARM64_T8132"
+    },
+    "sceneListMap": {
+        "e87ac3fe-ea86-46d0-948f-3f0d51058070": "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene/Game.scene"
+    },
+    "deviceMd5": "9071cda4478ada964988015383e21f5a"
+}

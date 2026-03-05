@@ -1,0 +1,1058 @@
+{
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts.meta": {
+    "time": 1772598057397.539
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts": {
+    "time": 1772692728125.381,
+    "uuid": "2a6f28bf-7cee-4f71-bcc2-37c79e595ac7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts.meta": {
+    "time": 1772598319356.7307
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio.meta": {
+    "time": 1772598319356.8438
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites.meta": {
+    "time": 1772598319357.0142
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music.meta": {
+    "time": 1772598319357.0916
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX.meta": {
+    "time": 1772598319357.165
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts": {
+    "time": 1772607886931.0596,
+    "uuid": "2f1037ce-a51f-47fb-8fc0-f7322bc43d09",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio": {
+    "time": 1772535959601.9658,
+    "uuid": "e3918c4d-efc9-456f-b49e-4500770926bb",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites": {
+    "time": 1772686469397.068,
+    "uuid": "942d4ad1-b3cc-4e81-b760-3bcf9c4dae2b",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music": {
+    "time": 1772535959601.4434,
+    "uuid": "f9726566-530c-4859-ad84-e06e2784d84e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX": {
+    "time": 1772535959606.5364,
+    "uuid": "7c16f40f-965a-4e00-9563-8f0217539c6c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/GameAudio.mixer.meta": {
+    "time": 1772598319492.1956
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Game BG.png.meta": {
+    "time": 1772598319704.0715
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Game ICON.png.meta": {
+    "time": 1772598319658.0974
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/freepik__adjust__60911.png.meta": {
+    "time": 1772598372560.9092
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/sprite-256px-36 (2).png.meta": {
+    "time": 1772598319703.881
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/sprite-256px-36 (3).png.meta": {
+    "time": 1772598319869.957
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music/Game BGM.mp3.meta": {
+    "time": 1772598319742.2056
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music/Game Over BGM.mp3.meta": {
+    "time": 1772598319740.3635
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music/Home BGM.mp3.meta": {
+    "time": 1772598319740.2139
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/Button Click.mp3.meta": {
+    "time": 1772598319744.8604
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/Potion 1 SFX.mp3.meta": {
+    "time": 1772598319746.7422
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/Potion 2 SFX.mp3.meta": {
+    "time": 1772598319746.3499
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/etfx_explosion_acid.wav.meta": {
+    "time": 1772598319751.678
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/etfx_explosion_bubble.wav.meta": {
+    "time": 1772598319748.4954
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/GameAudio.mixer": {
+    "time": 1772535959592.4006,
+    "uuid": "36cb517a-e9e1-4a41-abbb-a36ee4b10885",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/freepik__adjust__60911.png": {
+    "time": 1772535959629.2278,
+    "uuid": "55fd28a5-ec80-4b17-8872-3c5feab7ea39",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Game ICON.png": {
+    "time": 1772535959628.0493,
+    "uuid": "a4138c07-bb32-4cfd-b0df-e6221d6df60d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/sprite-256px-36 (2).png": {
+    "time": 1772535959645.6816,
+    "uuid": "8e4a9fcb-42fa-4d2f-9925-c1eb96c913b7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Game BG.png": {
+    "time": 1772535959620.4683,
+    "uuid": "c308441b-6c97-4e4f-8e7b-6b55ffd3bcdb",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music/Home BGM.mp3": {
+    "time": 1772535959601.3904,
+    "uuid": "2b2ab6b9-e7cb-4c10-a51a-ee4b2adc3cd7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music/Game Over BGM.mp3": {
+    "time": 1772535959598.0903,
+    "uuid": "4609461c-5b62-4b1a-8acf-77dc690403b2",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/Music/Game BGM.mp3": {
+    "time": 1772535959595.246,
+    "uuid": "c30ddcbb-4ea0-434f-a440-6ae180a444b2",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/Button Click.mp3": {
+    "time": 1772535959602.3425,
+    "uuid": "8e79d6f9-321b-4daa-83d0-b73c7e4c7e8d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/Potion 2 SFX.mp3": {
+    "time": 1772535959603.7114,
+    "uuid": "16ba4e97-81c1-48f5-9b7b-3eedcd588ad1",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/Potion 1 SFX.mp3": {
+    "time": 1772535959603.0083,
+    "uuid": "d3e07630-86c6-4871-bbbf-8c7be829d71b",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/etfx_explosion_bubble.wav": {
+    "time": 1772535959606.4963,
+    "uuid": "6ba446a4-ae09-477c-af79-f275a2b34b36",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Audio/SFX/etfx_explosion_acid.wav": {
+    "time": 1772535959605.5735,
+    "uuid": "7f72130b-d2a4-47c5-851c-0ef0d4aae2a2",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/sprite-256px-36 (3).png": {
+    "time": 1772535959657.6062,
+    "uuid": "a721f7d1-1060-45e9-a7b3-5c525ad1af38",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers.meta": {
+    "time": 1772598431455.865
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers": {
+    "time": 1772688207609.2407,
+    "uuid": "027b39f3-c5e8-4056-a9da-4ded1bb9eac7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/GameManager.ts.meta": {
+    "time": 1772598444548.7144
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/GameManager.ts": {
+    "time": 1772707234015.035,
+    "uuid": "d178986c-b71d-4529-a25b-02204a17203a",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Potion.ts.meta": {
+    "time": 1772598615275.5461
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Potion.ts": {
+    "time": 1772627319699.6465,
+    "uuid": "60c1df0b-a7e2-46b8-8c76-0730e48fb2dc",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/PotionSpawner.ts.meta": {
+    "time": 1772598875053.0713
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/PotionSpawner.ts": {
+    "time": 1772624573069.9375,
+    "uuid": "c7b2dc09-86d7-462c-8b72-3c846cb27768",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/PotMovement.ts.meta": {
+    "time": 1772598943189.7544
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/PotMovement.ts": {
+    "time": 1772610741303.7825,
+    "uuid": "352cfcbc-a6da-4259-987a-0348ed34e3ff",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/ScoreManager.ts.meta": {
+    "time": 1772599047237.6643
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/ScoreManager.ts": {
+    "time": 1772599076999.6785,
+    "uuid": "1393318d-d5fb-4366-914f-7572ba7160b8",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1.meta": {
+    "time": 1772600816575.098
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1": {
+    "time": 1772600816714.5852,
+    "uuid": "c5a9cad0-0408-4ef9-8ff1-83dd37d49bb3",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/00_Potion1.png.meta": {
+    "time": 1772600816735.3298
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/01_Potion1.png.meta": {
+    "time": 1772600816735.6255
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/02_Potion1.png.meta": {
+    "time": 1772600816739.6704
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/03_Potion1.png.meta": {
+    "time": 1772600816738.4573
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/04_Potion1.png.meta": {
+    "time": 1772600816750.8022
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/05_Potion1.png.meta": {
+    "time": 1772600816764.9258
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/06_Potion1.png.meta": {
+    "time": 1772600816766.8076
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/07_Potion1.png.meta": {
+    "time": 1772600816766.9487
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/08_Potion1.png.meta": {
+    "time": 1772600816775.099
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/09_Potion1.png.meta": {
+    "time": 1772600816776.9983
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/10_Potion1.png.meta": {
+    "time": 1772600816793.9702
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/11_Potion1.png.meta": {
+    "time": 1772600816806.039
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/12_Potion1.png.meta": {
+    "time": 1772600816794.94
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/13_Potion1.png.meta": {
+    "time": 1772600816810.5632
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/14_Potion1.png.meta": {
+    "time": 1772600816809.981
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/15_Potion1.png.meta": {
+    "time": 1772600816824.5847
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/16_Potion1.png.meta": {
+    "time": 1772600816823.8425
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/17_Potion1.png.meta": {
+    "time": 1772600816836.025
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/18_Potion1.png.meta": {
+    "time": 1772600816839.1958
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/19_Potion1.png.meta": {
+    "time": 1772600816837.0413
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/20_Potion1.png.meta": {
+    "time": 1772600816854.598
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/21_Potion1.png.meta": {
+    "time": 1772600816849.033
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/22_Potion1.png.meta": {
+    "time": 1772600816865.0227
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/23_Potion1.png.meta": {
+    "time": 1772600816858.1958
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/24_Potion1.png.meta": {
+    "time": 1772600816867.9897
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/25_Potion1.png.meta": {
+    "time": 1772600816875.642
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/26_Potion1.png.meta": {
+    "time": 1772600816880.5435
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/27_Potion1.png.meta": {
+    "time": 1772600816888.0015
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/28_Potion1.png.meta": {
+    "time": 1772600816890.38
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/29_Potion1.png.meta": {
+    "time": 1772600816892.6123
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/30_Potion1.png.meta": {
+    "time": 1772600816903.3774
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/31_Potion1.png.meta": {
+    "time": 1772600816913.298
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/32_Potion1.png.meta": {
+    "time": 1772600816913.4658
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/33_Potion1.png.meta": {
+    "time": 1772600816914.6396
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/34_Potion1.png.meta": {
+    "time": 1772600816913.6123
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/35_Potion1.png.meta": {
+    "time": 1772600816919.4614
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/00_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "b2c0fcb5-7162-4ddf-8994-20df19681dc4",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/01_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "23bf48e6-70cc-49c4-8c35-8cd6118e0b61",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/03_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "eafd69c2-7ae6-424b-8ff9-f110d0bfc0d3",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/02_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "4350f38e-e0e4-44c8-8b1d-2d5ffeb08159",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/04_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "ea019739-05b2-4e62-ab88-e72a4bfe751e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/05_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "a58c5305-ab25-42ec-b71d-46e6b947771a",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/06_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "56a36711-9d25-42fa-9b15-4f7a8982e146",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/07_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "b4ee6544-1fa5-40a6-804b-d3c021e07e03",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/08_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "196ded80-a332-40ee-98db-43ad374c29e5",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/09_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "feaabb9a-1448-43f3-9f38-b36c4cf07e9a",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/10_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "798032fa-d0e8-4ca7-add9-68b2f58b26cc",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/12_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "358dd70c-166d-4e60-bb28-1528f652b17c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/11_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "32be641b-6791-46b4-b928-b4af57dbc884",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/14_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "46b00184-8f6c-4aa5-b6c5-1b0ec90663da",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/13_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "21624391-5cef-4a76-8131-fefdab1282c0",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/16_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "cc321cff-3c46-40cd-852e-883e34413ebf",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/15_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "bd6528db-8db0-476a-9c8c-044a6964dd1c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/17_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "d0977465-cb18-4a33-907d-16b9ee8a4517",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/19_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "4dd5ac2c-42ab-429f-bc56-0e062c78783c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/18_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "77996613-919a-4868-bcad-66f56dce0ad1",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/21_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "abcafedb-0deb-4be7-b766-137b79e6328c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/20_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "4f1d9d81-6e03-4aba-916c-ce9de5ccd0f6",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/23_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "e90b49b8-2e5d-4c7e-9a8d-421638d5244c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/22_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "09d26519-70d6-4c4d-88bf-1a8adb13f42b",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/24_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "e1705150-ea12-4b86-ba34-821f2a2f9ba7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/25_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "92769926-89d6-4192-bacf-072f1f010a8d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/26_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "3e13f20d-ecc8-4377-af7d-69fb3b621cab",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/27_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "f52109e6-8337-4f63-8b73-455222d93e3f",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/28_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "405e6d57-eadb-4700-ad41-84c7623de28d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/29_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "81bbd78a-7a98-4f69-ba5b-e5dd617466bf",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/30_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "b66ffd36-7f43-4ac8-bc22-71ab3a20a5ef",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/31_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "27a9e931-ffe1-4e2f-a762-84bc087446ee",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/32_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "a70510c3-cfd0-4466-8b44-427c93a7f8ce",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/34_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "19c59995-0b79-4ecf-bd45-f4115e3b1d8f",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/33_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "d962b725-f74a-4134-b76d-b4a31fd6bba1",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion1/35_Potion1.png": {
+    "time": 1772580976000,
+    "uuid": "ddab16c3-0fb3-4e0a-ad38-62349f4f1e5d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/sprite-256px-36 (1).png.meta": {
+    "time": 1772600849483.3494
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/sprite-256px-36 (1).png": {
+    "time": 1772535959638.4912,
+    "uuid": "473dec81-d851-4113-b98b-95ade68e32de",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2.meta": {
+    "time": 1772601156054.4207
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2": {
+    "time": 1772601156182.8323,
+    "uuid": "faada8eb-22b3-4e17-b482-324f8a0a2a05",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/00_Potion2.png.meta": {
+    "time": 1772601156412.8044
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/01_Potion2.png.meta": {
+    "time": 1772601156411.6184
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/02_Potion2.png.meta": {
+    "time": 1772601156421.458
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/03_Potion2.png.meta": {
+    "time": 1772601156431.4846
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/04_Potion2.png.meta": {
+    "time": 1772601156443.6836
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/05_Potion2.png.meta": {
+    "time": 1772601156444.9565
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/06_Potion2.png.meta": {
+    "time": 1772601156445.4944
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/07_Potion2.png.meta": {
+    "time": 1772601156457.1648
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/08_Potion2.png.meta": {
+    "time": 1772601156464.4983
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/09_Potion2.png.meta": {
+    "time": 1772601156471.198
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/10_Potion2.png.meta": {
+    "time": 1772601156474.3445
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/11_Potion2.png.meta": {
+    "time": 1772601156472.8303
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/12_Potion2.png.meta": {
+    "time": 1772601156487.5334
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/13_Potion2.png.meta": {
+    "time": 1772601156497.5415
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/14_Potion2.png.meta": {
+    "time": 1772601156498.7249
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/15_Potion2.png.meta": {
+    "time": 1772601156505.8008
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/16_Potion2.png.meta": {
+    "time": 1772601156507.6938
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/17_Potion2.png.meta": {
+    "time": 1772601156519.4941
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/18_Potion2.png.meta": {
+    "time": 1772601156527.1548
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/19_Potion2.png.meta": {
+    "time": 1772601156529.5396
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/20_Potion2.png.meta": {
+    "time": 1772601156535.6177
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/21_Potion2.png.meta": {
+    "time": 1772601156536.7703
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/22_Potion2.png.meta": {
+    "time": 1772601156551.9949
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/23_Potion2.png.meta": {
+    "time": 1772601156565.6692
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/24_Potion2.png.meta": {
+    "time": 1772601156567.394
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/25_Potion2.png.meta": {
+    "time": 1772601156568.1165
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/26_Potion2.png.meta": {
+    "time": 1772601156568.3582
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/27_Potion2.png.meta": {
+    "time": 1772601156586.422
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/28_Potion2.png.meta": {
+    "time": 1772601156595.9395
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/29_Potion2.png.meta": {
+    "time": 1772601156597.4094
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/30_Potion2.png.meta": {
+    "time": 1772601156599.305
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/31_Potion2.png.meta": {
+    "time": 1772601156597.7961
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/32_Potion2.png.meta": {
+    "time": 1772601156614.1162
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/33_Potion2.png.meta": {
+    "time": 1772601156618.1777
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/34_Potion2.png.meta": {
+    "time": 1772601156617.0215
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/35_Potion2.png.meta": {
+    "time": 1772601156617.9683
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/01_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "8efd3c64-b6e6-4e63-b4a7-95f1419fec5d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/00_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "d12f9b47-fc19-4270-aa1b-78914fd0153c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/02_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "c2951f1a-7445-4dee-bbf6-9cb1142ec49e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/03_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "ea39abcf-e971-44ab-bac3-08cef5ca801e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/04_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "0bf59b79-e2e3-4c4e-a2d4-1b9b371f8395",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/05_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "19f0767d-5ee8-4788-be9d-0e09d7b57b1e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/06_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "75988d15-f13b-42ee-b8a4-1dc36b880312",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/07_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "6372922b-1fa1-4ca5-996b-6d9bf8bedf6e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/08_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "b112fc69-f304-46c1-9616-0741d7dc187e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/09_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "1d4aaf76-6da1-4d1d-844a-32388a9cbb7a",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/11_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "7209387b-f5af-43e2-b3bb-bc7539646d33",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/10_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "4d2938b3-26ed-4d34-ad93-d6d15d109db3",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/12_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "69122e94-9238-4962-b815-56bbfc6442f6",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/13_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "5370e99b-6d6b-4777-a248-80b3c7271f81",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/14_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "624e4329-8b6e-4b41-9b70-7b1b278e2356",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/15_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "63b6a3b8-ff27-43f1-a2f9-e08de4772c40",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/16_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "c8ce771c-bcb3-4038-a617-dcf66eeb9d47",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/17_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "fd96e593-8d8f-42b9-88f6-215e93a7e5eb",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/18_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "a2363959-8649-48af-a25f-80a88830ccd0",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/19_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "d2acd12e-64b0-4724-af22-459cfe7d3204",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/20_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "788edb84-d6de-492e-b992-9ec4aa399e73",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/21_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "90f14cfa-6194-4d4f-91e5-fc89807dd78f",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/22_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "ed1b1447-ac3d-4078-a725-b5fc455def5e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/23_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "ab3feba7-597a-4314-93a2-1486d3e4a5aa",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/24_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "5671701c-4249-402a-a893-f2576cac7301",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/25_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "8d2c5195-0b5a-40a9-8e0a-de6f40dd449d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/26_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "ae259469-5df6-4918-8fcd-a3799ce19149",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/27_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "63a0df95-5ff6-4827-a135-3215dc06ef44",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/28_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "a4446d3b-9cc6-41bc-bca7-3a3107016ad8",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/29_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "d6e35728-ad55-4acc-af4d-95050dc11288",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/31_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "b08f7ea3-c2f5-4daa-ae06-c673327a1cb0",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/30_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "c98291cc-9795-46e4-92a2-4b677fb4be39",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/32_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "21de1f43-9250-4280-8d32-da84decfffdd",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/34_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "143fe25c-4fb6-4953-9835-1751d44c738a",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/35_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "8c4eafe3-f648-4f6b-9363-210a14c83cbb",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Sprites/Potion2/33_Potion2.png": {
+    "time": 1772581274000,
+    "uuid": "7c930e2d-a543-44d2-835d-66adf6b593c7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Prefabs.meta": {
+    "time": 1772607886932.1401
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Prefabs": {
+    "time": 1772607890082.9639,
+    "uuid": "35b23bf4-5b0d-4ced-8b3b-76beaed60a25",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Prefabs/Potion 1.prefab.meta": {
+    "time": 1772607890084.5938
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Artefacts/Prefabs/Potion 1.prefab": {
+    "time": 1772627324711.87,
+    "uuid": "10e30e64-1e2f-4ac1-a384-fddf8148dab4",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene.meta": {
+    "time": 1772625239010.6638
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene": {
+    "time": 1772625242248.863,
+    "uuid": "8520f594-9b4b-4ce5-839b-385b65cf1b3d",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene/Game.scene.meta": {
+    "time": 1772625228878.016
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene/Game.scene": {
+    "time": 1772702247462.3445,
+    "uuid": "e87ac3fe-ea86-46d0-948f-3f0d51058070",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins.meta": {
+    "time": 1772686475002.2346
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins": {
+    "time": 1772687839153.0662,
+    "uuid": "cde9137a-75ef-4eda-98d0-0a4ea0564005",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI.meta": {
+    "time": 1772686481420.3418
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.d.ts.meta": {
+    "time": 1772686520798.4578
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI": {
+    "time": 1772688228936.3813,
+    "uuid": "3a03b0d1-3955-4106-81ed-9c99349d85d8",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.d.ts": {
+    "time": 1772686520796.9915,
+    "uuid": "a1346508-bae2-4c7c-9709-d0e853adc8eb",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.mjs.meta": {
+    "time": 1772686537842.4292
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/fairygui.mjs": {
+    "time": 1772686537838.7937,
+    "uuid": "8dc53532-3b2e-486b-8cb2-a3e37b8126f6",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.ts.meta": {
+    "time": 1772686746857.5361
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": {
+    "time": 1772707653587.74,
+    "uuid": "f0551238-49a3-4c99-892b-c8aa74588ab3",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/NewComponent.ts.meta": {
+    "time": 1772688228937.4712
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Plugins/FairyGUI/NewComponent.ts": {
+    "time": 1772688228935.3455,
+    "uuid": "340192ba-5b44-498b-bca8-3f233d185f56",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI.meta": {
+    "time": 1772692621164.61
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI": {
+    "time": 1772692728125.381,
+    "uuid": "97ae1689-f30c-46ba-a2ea-61630c5aa5a7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts.meta": {
+    "time": 1772692168315.3137
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": {
+    "time": 1772707921472.495,
+    "uuid": "472d0a93-e126-4c5a-aecc-cc27598d9817",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/GameOverController.ts.meta": {
+    "time": 1772692317259.5127
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/GameOverController.ts": {
+    "time": 1772693574129.0352,
+    "uuid": "ceb95fc7-9f52-4c25-8e20-4703aac3449e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/bridges.ts.meta": {
+    "time": 1772692498263.4204
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/bridges.ts": {
+    "time": 1772692516328.9846,
+    "uuid": "56cbd093-d986-4853-a95b-b246e9c677c2",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/Indexes.ts.meta": {
+    "time": 1772692564244.929
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/Indexes.ts": {
+    "time": 1772693021587.3723,
+    "uuid": "197ef65e-050e-4da0-a76a-d5ac28b67a92",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/contracts.ts.meta": {
+    "time": 1772692536416.5583
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/contracts.ts": {
+    "time": 1772692540777.3413,
+    "uuid": "e3278fc1-454a-4b3c-86fa-a323bb2e58e1",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/LeaderboardPanelController.ts.meta": {
+    "time": 1772692359536.8892
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/LeaderboardPanelController.ts": {
+    "time": 1772693574138.1296,
+    "uuid": "4594fd77-2418-46db-923e-98ffbced6445",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/MainMenuController.ts.meta": {
+    "time": 1772692392338.3704
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/MainMenuController.ts": {
+    "time": 1772693574118.6152,
+    "uuid": "d72d6a1d-adc0-45a9-b6ca-ed82b0255c4f",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/PausePanelController.ts.meta": {
+    "time": 1772692427348.9353
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/PausePanelController.ts": {
+    "time": 1772693574141.6082,
+    "uuid": "3fadf7b4-3bfa-453e-b90b-922cb18b759e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/SettingsController.ts.meta": {
+    "time": 1772692463699.7769
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/SettingsController.ts": {
+    "time": 1772693574141.6138,
+    "uuid": "c17ba53f-118b-4425-9352-a640a9da732e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/UIContracts.ts.meta": {
+    "time": 1772692091371.6316
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/UIContracts.ts": {
+    "time": 1772692095374.6072,
+    "uuid": "dae3b0ba-046f-429c-85e1-146170e7777a",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/ScreenBase.ts.meta": {
+    "time": 1772692210817.0945
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/ScreenBase.ts": {
+    "time": 1772693574141.6155,
+    "uuid": "8b1ed2e2-06b2-4c06-b207-cb85782466b7",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/UIPanelType.ts.meta": {
+    "time": 1772692121923.0432
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/UIPanelType.ts": {
+    "time": 1772692125809.751,
+    "uuid": "ac107af6-1d11-4264-bce1-bd50d18da7a1",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources.meta": {
+    "time": 1772689490708.5085
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI.meta": {
+    "time": 1772691643521.1248
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bytes.meta": {
+    "time": 1772702915512.4546
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0.png.meta": {
+    "time": 1772702915879.27
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_1.png.meta": {
+    "time": 1772702915687.6204
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_2.png.meta": {
+    "time": 1772702915761.9631
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_3.png.meta": {
+    "time": 1772702915813.5283
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources": {
+    "time": 1772702405915.014,
+    "uuid": "e83da212-4bf2-4298-bacf-4d99d3d515fb",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI": {
+    "time": 1772706711164.7407,
+    "uuid": "43321c12-e596-42ed-8a62-ad6a7ede7282",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bytes": {
+    "time": 1772702911135.459,
+    "uuid": "4fd750de-2255-4a65-9ff1-1c7ed6bd8385",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_1.png": {
+    "time": 1772706703869.0476,
+    "uuid": "a1c33601-0389-4c36-9f9b-e2bcc919730e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_2.png": {
+    "time": 1772706703977.105,
+    "uuid": "6dd1da82-bf25-41d5-bed7-b941cb85db7b",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_3.png": {
+    "time": 1772706704098.8281,
+    "uuid": "67769150-c605-49d0-a07b-c16e51cc929c",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0.png": {
+    "time": 1772706703850.5125,
+    "uuid": "091867e8-cf67-4218-b0ea-3410abcbfa2e",
+    "missing": false
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bin.meta": {
+    "time": 1772706711171.1604
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bin": {
+    "time": 1772706703674.4333,
+    "uuid": "848fc987-a90f-4b1e-b9d8-52b9879ef348",
+    "missing": false
+  }
+}
