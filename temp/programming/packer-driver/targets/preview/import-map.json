@@ -6,22 +6,22 @@
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/PotMovement.ts": "./chunks/bb/bb79b3383f00c2278dda2886daad7ecdd59f5e7c.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Potion.ts": "./chunks/e9/e9a9dec4c278d93c6f2ea6c4cfb87f597c2f6b1d.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/PotionSpawner.ts": "./chunks/91/919898f49c5cb1164c5128a85d39f12b8136cca4.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/ScoreManager.ts": "./chunks/b4/b49da12bac382c9cf15c53a83989dabad2f2ca96.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Plugins/FairyGUI/NewComponent.ts": "./chunks/0d/0d11200ac3c544b7318aa6798f7d6ea7eaa8a3aa.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/bridges.ts": "./chunks/d2/d246b03f12d04f48102768327e774f44e4a2b23e.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/contracts.ts": "./chunks/a7/a7074c00c5c226cc20e13bdfd9b5b8618009b9d7.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIContracts.ts": "./chunks/8c/8cc983924f6c482efbc243dab4072ec2eec6e87d.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIPanelType.ts": "./chunks/01/01d70b61e188a8b9e686b24ff96906e9022f4450.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/Indexes.ts": "./chunks/55/55623e810e195ddbf086ac04bb994ca98680a1fd.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/GameManager.ts": "./chunks/c9/c9461e205fbd5dab16cd2c374cb4b9f264bb6c4d.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/ScoreManager.ts": "./chunks/b4/b49da12bac382c9cf15c53a83989dabad2f2ca96.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameOverController.ts": "./chunks/35/351903776512598ccb729233681b1e5c7dfd7ebc.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/Indexes.ts": "./chunks/55/55623e810e195ddbf086ac04bb994ca98680a1fd.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/LeaderboardPanelController.ts": "./chunks/0c/0c129ede1cd36270b375c621d75c28475ec7318c.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/MainMenuController.ts": "./chunks/9c/9c3b140f95cd3365d5a5084cd57946e1fe172ecb.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/PausePanelController.ts": "./chunks/89/89b88a2999bc58b59642790c6163ec71afcb07b0.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/ScreenBase.ts": "./chunks/53/537290464f42821a7a1eaebb248299f88fe824f5.js",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/SettingsController.ts": "./chunks/38/3892dd5f8ebb28135423d406c71deb897b63d6a8.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/GameManager.ts": "./chunks/c9/c9461e205fbd5dab16cd2c374cb4b9f264bb6c4d.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": "./chunks/6e/6e77aee5b744ec49e4f8396096bfd6043c5323b8.js",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": "./chunks/cd/cd8c16f0edddfe784abfe92bbfd96cc8800e9e35.js"
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIContracts.ts": "./chunks/8c/8cc983924f6c482efbc243dab4072ec2eec6e87d.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIPanelType.ts": "./chunks/01/01d70b61e188a8b9e686b24ff96906e9022f4450.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/bridges.ts": "./chunks/d2/d246b03f12d04f48102768327e774f44e4a2b23e.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/contracts.ts": "./chunks/a7/a7074c00c5c226cc20e13bdfd9b5b8618009b9d7.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": "./chunks/4e/4e21498a865c5052c4a3b635b8012d6862acaf29.js",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": "./chunks/49/49ade497798fd42bf7b29d87acba3d3f9914c6e6.js"
   },
   "scopes": {
     "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js": {
@@ -60,11 +60,11 @@
       "__unresolved_19": "./chunks/a7/a7074c00c5c226cc20e13bdfd9b5b8618009b9d7.js",
       "__unresolved_2": "./chunks/c9/c9461e205fbd5dab16cd2c374cb4b9f264bb6c4d.js",
       "__unresolved_3": "./chunks/b4/b49da12bac382c9cf15c53a83989dabad2f2ca96.js",
-      "__unresolved_4": "./chunks/6e/6e77aee5b744ec49e4f8396096bfd6043c5323b8.js",
+      "__unresolved_4": "./chunks/4e/4e21498a865c5052c4a3b635b8012d6862acaf29.js",
       "__unresolved_5": "./chunks/bb/bb79b3383f00c2278dda2886daad7ecdd59f5e7c.js",
       "__unresolved_6": "./chunks/e9/e9a9dec4c278d93c6f2ea6c4cfb87f597c2f6b1d.js",
       "__unresolved_7": "./chunks/91/919898f49c5cb1164c5128a85d39f12b8136cca4.js",
-      "__unresolved_8": "./chunks/cd/cd8c16f0edddfe784abfe92bbfd96cc8800e9e35.js",
+      "__unresolved_8": "./chunks/49/49ade497798fd42bf7b29d87acba3d3f9914c6e6.js",
       "__unresolved_9": "./chunks/35/351903776512598ccb729233681b1e5c7dfd7ebc.js"
     },
     "./chunks/35/351903776512598ccb729233681b1e5c7dfd7ebc.js": {
@@ -80,7 +80,7 @@
     "./chunks/cb/cb43667c5dd7b032820207d15a5be24f0f18f763.js": {
       "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
     },
-    "./chunks/cd/cd8c16f0edddfe784abfe92bbfd96cc8800e9e35.js": {
+    "./chunks/49/49ade497798fd42bf7b29d87acba3d3f9914c6e6.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/cb/cb43667c5dd7b032820207d15a5be24f0f18f763.js",
       "__unresolved_2": "./chunks/53/537290464f42821a7a1eaebb248299f88fe824f5.js",
@@ -116,7 +116,7 @@
       "__unresolved_2": "./chunks/c9/c9461e205fbd5dab16cd2c374cb4b9f264bb6c4d.js",
       "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
     },
-    "./chunks/6e/6e77aee5b744ec49e4f8396096bfd6043c5323b8.js": {
+    "./chunks/4e/4e21498a865c5052c4a3b635b8012d6862acaf29.js": {
       "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
       "__unresolved_1": "./chunks/cb/cb43667c5dd7b032820207d15a5be24f0f18f763.js",
       "__unresolved_10": "./chunks/89/89b88a2999bc58b59642790c6163ec71afcb07b0.js",
@@ -128,7 +128,7 @@
       "__unresolved_6": "./chunks/9c/9c3b140f95cd3365d5a5084cd57946e1fe172ecb.js",
       "__unresolved_7": "./chunks/38/3892dd5f8ebb28135423d406c71deb897b63d6a8.js",
       "__unresolved_8": "./chunks/0c/0c129ede1cd36270b375c621d75c28475ec7318c.js",
-      "__unresolved_9": "./chunks/cd/cd8c16f0edddfe784abfe92bbfd96cc8800e9e35.js",
+      "__unresolved_9": "./chunks/49/49ade497798fd42bf7b29d87acba3d3f9914c6e6.js",
       "cc": "./chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js"
     },
     "./chunks/0c/0c129ede1cd36270b375c621d75c28475ec7318c.js": {
@@ -176,11 +176,11 @@
     "./chunks/55/55623e810e195ddbf086ac04bb994ca98680a1fd.js": {
       "__unresolved_0": "./chunks/8c/8cc983924f6c482efbc243dab4072ec2eec6e87d.js",
       "__unresolved_1": "./chunks/01/01d70b61e188a8b9e686b24ff96906e9022f4450.js",
-      "__unresolved_2": "./chunks/6e/6e77aee5b744ec49e4f8396096bfd6043c5323b8.js",
+      "__unresolved_2": "./chunks/4e/4e21498a865c5052c4a3b635b8012d6862acaf29.js",
       "__unresolved_3": "./chunks/9c/9c3b140f95cd3365d5a5084cd57946e1fe172ecb.js",
       "__unresolved_4": "./chunks/38/3892dd5f8ebb28135423d406c71deb897b63d6a8.js",
       "__unresolved_5": "./chunks/0c/0c129ede1cd36270b375c621d75c28475ec7318c.js",
-      "__unresolved_6": "./chunks/cd/cd8c16f0edddfe784abfe92bbfd96cc8800e9e35.js",
+      "__unresolved_6": "./chunks/49/49ade497798fd42bf7b29d87acba3d3f9914c6e6.js",
       "__unresolved_7": "./chunks/89/89b88a2999bc58b59642790c6163ec71afcb07b0.js",
       "__unresolved_8": "./chunks/35/351903776512598ccb729233681b1e5c7dfd7ebc.js",
       "__unresolved_9": "./chunks/d2/d246b03f12d04f48102768327e774f44e4a2b23e.js",

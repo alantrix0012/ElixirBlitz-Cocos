@@ -182,6 +182,7 @@ export class UIManager extends Component implements UIActions {
       new GameHUDController(
         this.packageName,
         gameActions,
+        this,
         this.audio,
         scoreActions,
         missActions,

@@ -835,7 +835,7 @@
     "time": 1772625228878.016
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scene/Game.scene": {
-    "time": 1772702247462.3445,
+    "time": 1772713154662.111,
     "uuid": "e87ac3fe-ea86-46d0-948f-3f0d51058070",
     "missing": false
   },
@@ -875,7 +875,7 @@
     "time": 1772686746857.5361
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": {
-    "time": 1772707653587.74,
+    "time": 1772709964911.9348,
     "uuid": "f0551238-49a3-4c99-892b-c8aa74588ab3",
     "missing": false
   },
@@ -899,7 +899,7 @@
     "time": 1772692168315.3137
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": {
-    "time": 1772707921472.495,
+    "time": 1772712408431.9458,
     "uuid": "472d0a93-e126-4c5a-aecc-cc27598d9817",
     "missing": false
   },
@@ -997,62 +997,54 @@
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI.meta": {
     "time": 1772691643521.1248
   },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bytes.meta": {
-    "time": 1772702915512.4546
-  },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0.png.meta": {
-    "time": 1772702915879.27
-  },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_1.png.meta": {
-    "time": 1772702915687.6204
-  },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_2.png.meta": {
-    "time": 1772702915761.9631
-  },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_3.png.meta": {
-    "time": 1772702915813.5283
-  },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources": {
     "time": 1772702405915.014,
     "uuid": "e83da212-4bf2-4298-bacf-4d99d3d515fb",
     "missing": false
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI": {
-    "time": 1772706711164.7407,
+    "time": 1772710534610.1592,
     "uuid": "43321c12-e596-42ed-8a62-ad6a7ede7282",
     "missing": false
   },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bytes": {
-    "time": 1772702911135.459,
-    "uuid": "4fd750de-2255-4a65-9ff1-1c7ed6bd8385",
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bin.meta": {
+    "time": 1772710534613.1697
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0.png.meta": {
+    "time": 1772710534978.6313
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_1.png.meta": {
+    "time": 1772710534777.9656
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_2.png.meta": {
+    "time": 1772710534857.6477
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_3.png.meta": {
+    "time": 1772710534908.6663
+  },
+  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bin": {
+    "time": 1772711662821.1445,
+    "uuid": "693a8b3c-a052-4952-935d-7f71c84a349b",
     "missing": false
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_1.png": {
-    "time": 1772706703869.0476,
-    "uuid": "a1c33601-0389-4c36-9f9b-e2bcc919730e",
+    "time": 1772711662996.51,
+    "uuid": "4723c208-d6b6-4b52-8dda-1678c8a0531c",
     "missing": false
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_2.png": {
-    "time": 1772706703977.105,
-    "uuid": "6dd1da82-bf25-41d5-bed7-b941cb85db7b",
+    "time": 1772711663096.3372,
+    "uuid": "8d9215d5-5283-41c9-a8c9-90d9c8b950e6",
     "missing": false
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0_3.png": {
-    "time": 1772706704098.8281,
-    "uuid": "67769150-c605-49d0-a07b-c16e51cc929c",
+    "time": 1772711663210.357,
+    "uuid": "b62a59cc-99c3-4836-8527-e8baf71851e7",
     "missing": false
   },
   "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI_atlas0.png": {
-    "time": 1772706703850.5125,
-    "uuid": "091867e8-cf67-4218-b0ea-3410abcbfa2e",
-    "missing": false
-  },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bin.meta": {
-    "time": 1772706711171.1604
-  },
-  "/Users/SivasankarS/My_Work_Space/Projects /Cocos/FGUI/assets/resources/FGUI/FGUI.bin": {
-    "time": 1772706703674.4333,
-    "uuid": "848fc987-a90f-4b1e-b9d8-52b9879ef348",
+    "time": 1772711662978.0461,
+    "uuid": "6a152531-55ba-4e8c-ace0-f2736e36257e",
     "missing": false
   }
 }

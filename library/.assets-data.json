@@ -2594,6 +2594,7 @@
     "value": {
       "depends": [
         "e87ac3fe-ea86-46d0-948f-3f0d51058070",
+        "c308441b-6c97-4e4f-8e7b-6b55ffd3bcdb@f9941",
         "55fd28a5-ec80-4b17-8872-3c5feab7ea39@f9941",
         "10e30e64-1e2f-4ac1-a384-fddf8148dab4",
         "c77ecaa8-c936-46c4-a5b0-98692673ed87"
@@ -3316,33 +3317,23 @@
   },
   "4fd750de-2255-4a65-9ff1-1c7ed6bd8385": {
     "url": "db://assets/resources/FGUI/FGUI.bytes",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "091867e8-cf67-4218-b0ea-3410abcbfa2e": {
     "url": "db://assets/resources/FGUI/FGUI_atlas0.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "a1c33601-0389-4c36-9f9b-e2bcc919730e": {
     "url": "db://assets/resources/FGUI/FGUI_atlas0_1.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "6dd1da82-bf25-41d5-bed7-b941cb85db7b": {
     "url": "db://assets/resources/FGUI/FGUI_atlas0_2.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "67769150-c605-49d0-a07b-c16e51cc929c": {
     "url": "db://assets/resources/FGUI/FGUI_atlas0_3.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "a1c33601-0389-4c36-9f9b-e2bcc919730e@6c48a": {
     "url": "db://assets/resources/FGUI/FGUI_atlas0_1.png@6c48a",
@@ -3410,8 +3401,100 @@
   },
   "848fc987-a90f-4b1e-b9d8-52b9879ef348": {
     "url": "db://assets/resources/FGUI/FGUI.bin",
+    "value": {}
+  },
+  "693a8b3c-a052-4952-935d-7f71c84a349b": {
+    "url": "db://assets/resources/FGUI/FGUI.bin",
     "value": {
       "depends": []
+    }
+  },
+  "6a152531-55ba-4e8c-ace0-f2736e36257e": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4723c208-d6b6-4b52-8dda-1678c8a0531c": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8d9215d5-5283-41c9-a8c9-90d9c8b950e6": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "b62a59cc-99c3-4836-8527-e8baf71851e7": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4723c208-d6b6-4b52-8dda-1678c8a0531c@6c48a": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_1.png@6c48a",
+    "value": {
+      "depends": [
+        "4723c208-d6b6-4b52-8dda-1678c8a0531c"
+      ]
+    }
+  },
+  "4723c208-d6b6-4b52-8dda-1678c8a0531c@f9941": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_1.png@f9941",
+    "value": {
+      "depends": [
+        "4723c208-d6b6-4b52-8dda-1678c8a0531c@6c48a"
+      ]
+    }
+  },
+  "8d9215d5-5283-41c9-a8c9-90d9c8b950e6@6c48a": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_2.png@6c48a",
+    "value": {
+      "depends": [
+        "8d9215d5-5283-41c9-a8c9-90d9c8b950e6"
+      ]
+    }
+  },
+  "8d9215d5-5283-41c9-a8c9-90d9c8b950e6@f9941": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_2.png@f9941",
+    "value": {
+      "depends": [
+        "8d9215d5-5283-41c9-a8c9-90d9c8b950e6@6c48a"
+      ]
+    }
+  },
+  "b62a59cc-99c3-4836-8527-e8baf71851e7@6c48a": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_3.png@6c48a",
+    "value": {
+      "depends": [
+        "b62a59cc-99c3-4836-8527-e8baf71851e7"
+      ]
+    }
+  },
+  "b62a59cc-99c3-4836-8527-e8baf71851e7@f9941": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0_3.png@f9941",
+    "value": {
+      "depends": [
+        "b62a59cc-99c3-4836-8527-e8baf71851e7@6c48a"
+      ]
+    }
+  },
+  "6a152531-55ba-4e8c-ace0-f2736e36257e@6c48a": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0.png@6c48a",
+    "value": {
+      "depends": [
+        "6a152531-55ba-4e8c-ace0-f2736e36257e"
+      ]
+    }
+  },
+  "6a152531-55ba-4e8c-ace0-f2736e36257e@f9941": {
+    "url": "db://assets/resources/FGUI/FGUI_atlas0.png@f9941",
+    "value": {
+      "depends": [
+        "6a152531-55ba-4e8c-ace0-f2736e36257e@6c48a"
+      ]
     }
   }
 }

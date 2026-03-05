@@ -3896,3 +3896,7 @@
 05-03-2026 16:22:49-debug: asset-db:worker-effect-data-processing (157ms)
 05-03-2026 16:22:49-debug: refresh db assets success
 05-03-2026 16:22:49-debug: asset-db:refresh-all-database (186ms)
+05-03-2026 16:47:47-debug: refresh db internal success
+05-03-2026 16:47:47-debug: asset-db:worker-effect-data-processing (133ms)
+05-03-2026 16:47:47-debug: refresh db assets success
+05-03-2026 16:47:47-debug: asset-db:refresh-all-database (177ms)

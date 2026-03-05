@@ -10,50 +10,36 @@ import {
 import { UIPanelType } from "./UIPanelType";
 
 export class GameHUDController extends ScreenBase {
-  private scoreText: fgui.GTextField | null = null;
-  private countDownText: fgui.GTextField | null = null;
-  private miss1: fgui.GLoader | null = null;
-  private miss2: fgui.GLoader | null = null;
-  private miss3: fgui.GLoader | null = null;
+  private scoreText: fgui.GTextField;
+  private countDownText: fgui.GTextField;
+  private miss1: fgui.GLoader;
+  private miss2: fgui.GLoader;
+  private miss3: fgui.GLoader;
 
   constructor(
     packageName: string,
     private readonly game: GameActions,
+    private readonly ui: UIActions,
     private readonly audio: AudioActions,
     private readonly scores: ScoreActions,
     private readonly misses: MissActions,
   ) {
     super(fgui.UIPackage.createObject(packageName, "GameHUDPanel").asCom);
 
-    const pauseButton = this.view.getChild("PauseButton")?.asButton;
-    const inputButton = this.view.getChild("InputButton")?.asButton;
-    this.scoreText = this.view.getChild("ScoreText")?.asTextField ?? null;
+    const pauseButton = this.view.getChild("PauseButton") as fgui.GButton;
+    const inputButton = this.view.getChild("InputButton") as fgui.GButton;
+    this.scoreText = this.view.getChild("ScoreText") as fgui.GTextField;
+    this.countDownText = this.view.getChild("CountDownText") as fgui.GTextField;
 
-    this.countDownText =
-      this.view.getChild("CountDownText")?.asTextField ??
-      this.view.getChild("CountdownText")?.asTextField ??
-      this.view.getChild("Countdown")?.asTextField ??
-      null;
+    const missedItems = this.view.getChild("MissedItems").asCom;
+    this.miss1 = missedItems.getChild("1") as fgui.GLoader;
+    this.miss2 = missedItems.getChild("2") as fgui.GLoader;
+    this.miss3 = missedItems.getChild("3") as fgui.GLoader;
 
-    if (!this.scoreText) {
-      console.warn("GameHUDController: 'ScoreText' not found in GameHUDPanel.");
-    }
+    this.countDownText.visible = false;
 
-    if (!this.countDownText) {
-      console.warn(
-        "GameHUDController: countdown text not found (expected CountDownText/CountdownText/Countdown).",
-      );
-    }
-
-    const missedItems = this.view.getChild("MissedItems")?.asCom;
-    this.miss1 = missedItems?.getChild("1")?.asLoader ?? null;
-    this.miss2 = missedItems?.getChild("2")?.asLoader ?? null;
-    this.miss3 = missedItems?.getChild("3")?.asLoader ?? null;
-
-    this.countDownText && (this.countDownText.visible = false);
-
-    pauseButton?.onClick(this.onPauseClicked, this);
-    inputButton?.onClick(this.onInputClicked, this);
+    pauseButton.onClick(this.onPauseClicked, this);
+    inputButton.onClick(this.onInputClicked, this);
   }
 
   protected onShow(): void {
@@ -70,11 +56,7 @@ export class GameHUDController extends ScreenBase {
   }
 
   async playCountdown(onComplete: () => void) {
-    if (!this.countDownText) {
-      onComplete();
-      return;
-    }
-
+    console.log("Countdown started");
     this.countDownText.visible = true;
     for (let i = 3; i > 0; i -= 1) {
       this.countDownText.text = String(i);
@@ -88,14 +70,14 @@ export class GameHUDController extends ScreenBase {
   }
 
   resetMissUI() {
-    if (this.miss1) this.miss1.url = "ui://FGUI_Tutorial/BlueX";
-    if (this.miss2) this.miss2.url = "ui://FGUI_Tutorial/BlueX";
-    if (this.miss3) this.miss3.url = "ui://FGUI_Tutorial/BlueX";
+    this.miss1.url = "ui://FGUI_Tutorial/BlueX";
+    this.miss2.url = "ui://FGUI_Tutorial/BlueX";
+    this.miss3.url = "ui://FGUI_Tutorial/BlueX";
   }
 
   private onPauseClicked() {
-    this.game.pauseGame();
     this.audio.playButtonClick();
+    this.game.pauseGame();
   }
 
   private onInputClicked() {
@@ -103,17 +85,14 @@ export class GameHUDController extends ScreenBase {
   }
 
   private updateScore = (score: number) => {
-    if (this.scoreText) this.scoreText.text = String(score);
+    this.scoreText.text = String(score);
   };
 
   private updateMissUI = (currentMisses: number) => {
     this.resetMissUI();
-    if (currentMisses >= 1 && this.miss3)
-      this.miss3.url = "ui://FGUI_Tutorial/RedX";
-    if (currentMisses >= 2 && this.miss2)
-      this.miss2.url = "ui://FGUI_Tutorial/RedX";
-    if (currentMisses >= 3 && this.miss1)
-      this.miss1.url = "ui://FGUI_Tutorial/RedX";
+    if (currentMisses >= 1) this.miss3.url = "ui://FGUI_Tutorial/RedX";
+    if (currentMisses >= 2) this.miss2.url = "ui://FGUI_Tutorial/RedX";
+    if (currentMisses >= 3) this.miss1.url = "ui://FGUI_Tutorial/RedX";
   };
 
   private delay(ms: number) {

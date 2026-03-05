@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 4619.72000002861,
+      "mTimestamp": 4519.378708124161,
       "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
       "imports": [
         {
@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 19862555.975541115,
+      "mTimestamp": 2608349.0575420856,
       "chunkId": "311f9d1d8b52659f9e225bf0993a5b055330990a",
       "imports": [
         {
@@ -1462,7 +1462,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1772688073118,
+      "mTimestamp": 1772709803060,
       "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
       "imports": [],
       "type": "esm",
@@ -11514,10 +11514,10 @@
     },
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": {
       "mTimestamp": {
-        "mtime": 1772707653587.74,
+        "mtime": 1772709964911.9348,
         "uuid": "f0551238-49a3-4c99-892b-c8aa74588ab3"
       },
-      "chunkId": "7f44740664e51702aefa478b696faa5241390ed5",
+      "chunkId": "0b18f18e853a29c2ecb57e860fe62fdbb00871ad",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -13069,10 +13069,10 @@
     },
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": {
       "mTimestamp": {
-        "mtime": 1772707921472.495,
+        "mtime": 1772712408431.9458,
         "uuid": "472d0a93-e126-4c5a-aecc-cc27598d9817"
       },
-      "chunkId": "5e2504a9fd4e035c9988e82238199bddb3332e0c",
+      "chunkId": "eecc136fb439280c8d64d06ac6d5eb267de2eb03",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",

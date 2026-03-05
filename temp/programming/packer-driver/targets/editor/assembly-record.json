@@ -3609,218 +3609,6 @@
       },
       "timestamp": 1772684732377
     },
-    "cee638a986ad8fae09398db255647defcaa6612a": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/base"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
-          },
-          "messages": []
-        },
-        "__unresolved_10": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
-          },
-          "messages": []
-        },
-        "__unresolved_11": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
-          },
-          "messages": []
-        },
-        "__unresolved_12": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
-          },
-          "messages": []
-        },
-        "__unresolved_13": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
-          },
-          "messages": []
-        },
-        "__unresolved_14": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
-          },
-          "messages": []
-        },
-        "__unresolved_15": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
-          },
-          "messages": []
-        },
-        "__unresolved_16": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
-          },
-          "messages": []
-        },
-        "__unresolved_17": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/geometry-renderer"
-          },
-          "messages": []
-        },
-        "__unresolved_18": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
-          },
-          "messages": []
-        },
-        "__unresolved_19": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/video"
-          },
-          "messages": []
-        },
-        "__unresolved_2": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
-          },
-          "messages": []
-        },
-        "__unresolved_20": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/xr"
-          },
-          "messages": []
-        },
-        "__unresolved_21": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/light-probe"
-          },
-          "messages": []
-        },
-        "__unresolved_22": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
-          },
-          "messages": []
-        },
-        "__unresolved_23": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
-          },
-          "messages": []
-        },
-        "__unresolved_24": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
-          },
-          "messages": []
-        },
-        "__unresolved_25": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
-          },
-          "messages": []
-        },
-        "__unresolved_26": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
-          },
-          "messages": []
-        },
-        "__unresolved_27": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
-          },
-          "messages": []
-        },
-        "__unresolved_28": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/custom-pipeline"
-          },
-          "messages": []
-        },
-        "__unresolved_3": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-empty"
-          },
-          "messages": []
-        },
-        "__unresolved_4": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
-          },
-          "messages": []
-        },
-        "__unresolved_5": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
-          },
-          "messages": []
-        },
-        "__unresolved_6": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
-          },
-          "messages": []
-        },
-        "__unresolved_7": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
-          },
-          "messages": []
-        },
-        "__unresolved_8": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/sorting"
-          },
-          "messages": []
-        },
-        "__unresolved_9": {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1772688077765
-    },
-    "84741ad843cea9a440c5d8c2d379669b6551400d": {
-      "imports": {},
-      "timestamp": 1772688077782
-    },
     "d06e0aafd5c090a6c694e8564415f3303d77f348": {
       "imports": {
         "__unresolved_0": {
@@ -4382,7 +4170,7 @@
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "7f44740664e51702aefa478b696faa5241390ed5"
+            "id": "0b18f18e853a29c2ecb57e860fe62fdbb00871ad"
           },
           "messages": []
         },
@@ -4410,7 +4198,7 @@
         "__unresolved_6": {
           "resolved": {
             "type": "chunk",
-            "id": "5e2504a9fd4e035c9988e82238199bddb3332e0c"
+            "id": "eecc136fb439280c8d64d06ac6d5eb267de2eb03"
           },
           "messages": []
         },
@@ -4697,7 +4485,219 @@
       },
       "timestamp": 1772707241592
     },
-    "7f44740664e51702aefa478b696faa5241390ed5": {
+    "cee638a986ad8fae09398db255647defcaa6612a": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        "__unresolved_10": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        "__unresolved_11": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        "__unresolved_12": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        "__unresolved_13": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        "__unresolved_14": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        "__unresolved_15": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        "__unresolved_16": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        "__unresolved_17": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/geometry-renderer"
+          },
+          "messages": []
+        },
+        "__unresolved_18": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        "__unresolved_19": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        "__unresolved_20": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/xr"
+          },
+          "messages": []
+        },
+        "__unresolved_21": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/light-probe"
+          },
+          "messages": []
+        },
+        "__unresolved_22": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        "__unresolved_23": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        "__unresolved_24": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        "__unresolved_25": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        "__unresolved_26": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        "__unresolved_27": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        "__unresolved_28": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/custom-pipeline"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-empty"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        "__unresolved_5": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        "__unresolved_6": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        "__unresolved_7": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        "__unresolved_8": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/sorting"
+          },
+          "messages": []
+        },
+        "__unresolved_9": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1772709807612
+    },
+    "84741ad843cea9a440c5d8c2d379669b6551400d": {
+      "imports": {},
+      "timestamp": 1772709807629
+    },
+    "0b18f18e853a29c2ecb57e860fe62fdbb00871ad": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
@@ -4779,7 +4779,7 @@
         "__unresolved_9": {
           "resolved": {
             "type": "chunk",
-            "id": "5e2504a9fd4e035c9988e82238199bddb3332e0c"
+            "id": "eecc136fb439280c8d64d06ac6d5eb267de2eb03"
           },
           "messages": []
         },
@@ -4791,7 +4791,7 @@
           "messages": []
         }
       },
-      "timestamp": 1772707659998
+      "timestamp": 1772709971998
     },
     "311f9d1d8b52659f9e225bf0993a5b055330990a": {
       "imports": {
@@ -4896,7 +4896,7 @@
         "__unresolved_4": {
           "resolved": {
             "type": "chunk",
-            "id": "7f44740664e51702aefa478b696faa5241390ed5"
+            "id": "0b18f18e853a29c2ecb57e860fe62fdbb00871ad"
           },
           "messages": []
         },
@@ -4924,7 +4924,7 @@
         "__unresolved_8": {
           "resolved": {
             "type": "chunk",
-            "id": "5e2504a9fd4e035c9988e82238199bddb3332e0c"
+            "id": "eecc136fb439280c8d64d06ac6d5eb267de2eb03"
           },
           "messages": []
         },
@@ -4936,9 +4936,9 @@
           "messages": []
         }
       },
-      "timestamp": 1772707935743
+      "timestamp": 1772712411413
     },
-    "5e2504a9fd4e035c9988e82238199bddb3332e0c": {
+    "eecc136fb439280c8d64d06ac6d5eb267de2eb03": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
@@ -4969,7 +4969,7 @@
           "messages": []
         }
       },
-      "timestamp": 1772707935765
+      "timestamp": 1772712411430
     }
   },
   "entries": {
@@ -4979,21 +4979,21 @@
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/PotMovement.ts": "a3d15fa9b2fe5baba54e476151b40971f5b61352",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Potion.ts": "f1c525c215c213a9c40863f86dbecd0ae2a74510",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/PotionSpawner.ts": "968b5828cb3b0ccf8d6c8860aa02acc37ec666e9",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/ScoreManager.ts": "d5c313f41415a342882c8104913a3af38b07c1c5",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Plugins/FairyGUI/NewComponent.ts": "0d11200ac3c544b7318aa6798f7d6ea7eaa8a3aa",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/bridges.ts": "d246b03f12d04f48102768327e774f44e4a2b23e",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/contracts.ts": "a7074c00c5c226cc20e13bdfd9b5b8618009b9d7",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIContracts.ts": "8cc983924f6c482efbc243dab4072ec2eec6e87d",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIPanelType.ts": "01d70b61e188a8b9e686b24ff96906e9022f4450",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/Indexes.ts": "55623e810e195ddbf086ac04bb994ca98680a1fd",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/GameManager.ts": "91c408d7e8eaee3bd3e9c9b1bc24db4f06b5c0dd",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/ScoreManager.ts": "d5c313f41415a342882c8104913a3af38b07c1c5",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameOverController.ts": "256407b681503ad63ef7eb49f099cd6dad3f4a8d",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/Indexes.ts": "55623e810e195ddbf086ac04bb994ca98680a1fd",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/LeaderboardPanelController.ts": "589f6c23fd05c66e8fe17f8b9257bfde88688f77",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/MainMenuController.ts": "22c26e55e013219e004507306f365ff95bf137cc",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/PausePanelController.ts": "75245362cfcdeb9da52a9858afe36a13dfc8b6ab",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/ScreenBase.ts": "6f9a7bf9507d6b26c36d2fc94f464b88a801a965",
     "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/SettingsController.ts": "64e0cb77f64d6bbd244c17c5277d4c8f435ad846",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/GameManager.ts": "91c408d7e8eaee3bd3e9c9b1bc24db4f06b5c0dd",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": "7f44740664e51702aefa478b696faa5241390ed5",
-    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": "5e2504a9fd4e035c9988e82238199bddb3332e0c"
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIContracts.ts": "8cc983924f6c482efbc243dab4072ec2eec6e87d",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/UIPanelType.ts": "01d70b61e188a8b9e686b24ff96906e9022f4450",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/bridges.ts": "d246b03f12d04f48102768327e774f44e4a2b23e",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/contracts.ts": "a7074c00c5c226cc20e13bdfd9b5b8618009b9d7",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/Managers/UIManager.ts": "0b18f18e853a29c2ecb57e860fe62fdbb00871ad",
+    "file:///Users/SivasankarS/My_Work_Space/Projects%20/Cocos/FGUI/assets/Scripts/UI/GameHUDController.ts": "eecc136fb439280c8d64d06ac6d5eb267de2eb03"
   }
 }
