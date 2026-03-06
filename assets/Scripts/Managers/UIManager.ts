@@ -1,5 +1,5 @@
 import * as fgui from "../../Plugins/FairyGUI/fairygui.mjs";
-import { _decorator, Component, resources, view } from "cc";
+import { _decorator, Component, Font, resources, view } from "cc";
 import {
   AudioActions,
   GameActions,
@@ -38,6 +38,9 @@ export class UIManager extends Component implements UIActions {
   @property(ScoreManager)
   scoreManager: ScoreManager | null = null;
 
+  @property(Font)
+  gameFont: Font | null = null;
+
   private screens = new Map<UIPanelType, ScreenBase>();
   private currentScreen: ScreenBase | null = null;
 
@@ -50,6 +53,11 @@ export class UIManager extends Component implements UIActions {
 
     const visibleSize = view.getVisibleSize();
     fgui.GRoot.inst.setSize(visibleSize.width, visibleSize.height);
+
+    if (this.gameFont) {
+      fgui.registerFont("GameFont", this.gameFont);
+      console.log("UIManager: Registered game font with FairyGUI.");
+    }
 
     this.loadUIPackage();
   }

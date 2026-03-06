@@ -21,19 +21,19 @@
         "__id__": 19
       },
       {
-        "__id__": 24
+        "__id__": 25
       },
       {
         "__id__": 22
       },
       {
-        "__id__": 26
+        "__id__": 27
       }
     ],
     "_active": true,
     "_components": [],
     "_prefab": {
-      "__id__": 28
+      "__id__": 29
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -64,7 +64,7 @@
     },
     "autoReleaseAssets": false,
     "_globals": {
-      "__id__": 29
+      "__id__": 30
     },
     "_id": "e87ac3fe-ea86-46d0-948f-3f0d51058070"
   },
@@ -451,7 +451,7 @@
     "tag": 0,
     "_group": 1,
     "_density": 1,
-    "_sensor": false,
+    "_sensor": true,
     "_friction": 0.2,
     "_restitution": 0,
     "_offset": {
@@ -479,8 +479,8 @@
     "bullet": false,
     "awakeOnLoad": true,
     "_group": 1,
-    "_type": 2,
-    "_allowSleep": true,
+    "_type": 1,
+    "_allowSleep": false,
     "_gravityScale": 0,
     "_linearDamping": 0,
     "_angularDamping": 0,
@@ -615,12 +615,12 @@
     },
     "_enabled": true,
     "__prefab": null,
-    "_alignFlags": 45,
+    "_alignFlags": 18,
     "_target": null,
     "_left": 0,
     "_right": 0,
-    "_top": -5.684341886080802e-14,
-    "_bottom": -5.684341886080802e-14,
+    "_top": 0,
+    "_bottom": 0,
     "_horizontalCenter": 0,
     "_verticalCenter": 0,
     "_isAbsLeft": true,
@@ -629,8 +629,8 @@
     "_isAbsBottom": true,
     "_isAbsHorizontalCenter": true,
     "_isAbsVerticalCenter": true,
-    "_originalWidth": 0,
-    "_originalHeight": 0,
+    "_originalWidth": 1080,
+    "_originalHeight": 1920,
     "_alignMode": 2,
     "_lockFlags": 0,
     "_id": "c5V1EV8IpMtrIvY1OE9t2u"
@@ -709,13 +709,16 @@
     "weightedTypes": [
       {
         "__id__": 23
+      },
+      {
+        "__id__": 24
       }
     ],
     "poolSizePerType": 10,
     "spawnMinInterval": 1,
     "spawnMaxInterval": 2,
     "speedIncreaseInterval": 10,
-    "speedIncreaseAmount": 0.5,
+    "speedIncreaseAmount": 10,
     "canvasNode": {
       "__id__": 14
     },
@@ -771,7 +774,15 @@
       "__uuid__": "10e30e64-1e2f-4ac1-a384-fddf8148dab4",
       "__expectedType__": "cc.Prefab"
     },
-    "spawnPercentage": 100
+    "spawnPercentage": 70
+  },
+  {
+    "__type__": "WeightedPotionType",
+    "prefab": {
+      "__uuid__": "bf8ddde0-6559-456c-ab35-2fd0432dab1a",
+      "__expectedType__": "cc.Prefab"
+    },
+    "spawnPercentage": 30
   },
   {
     "__type__": "cc.Node",
@@ -784,7 +795,7 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 25
+        "__id__": 26
       }
     ],
     "_prefab": null,
@@ -822,7 +833,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 24
+      "__id__": 25
     },
     "_enabled": true,
     "__prefab": null,
@@ -839,7 +850,7 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 27
+        "__id__": 28
       }
     ],
     "_prefab": null,
@@ -877,7 +888,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 26
+      "__id__": 27
     },
     "_enabled": true,
     "__prefab": null,
@@ -887,7 +898,11 @@
       "__id__": 20
     },
     "scoreManager": {
-      "__id__": 25
+      "__id__": 26
+    },
+    "gameFont": {
+      "__uuid__": "9f6f6571-70b0-4c5b-8004-43dd0d629c80",
+      "__expectedType__": "cc.TTFFont"
     },
     "_id": "56LFXNlXJL5LI51snaVYSQ"
   },
@@ -895,29 +910,29 @@
     "__type__": "cc.PrefabInfo",
     "root": null,
     "asset": null,
-    "fileId": "c77ecaa8-c936-46c4-a5b0-98692673ed87",
+    "fileId": "e87ac3fe-ea86-46d0-948f-3f0d51058070",
     "instance": null,
     "targetOverrides": null
   },
   {
     "__type__": "cc.SceneGlobals",
     "ambient": {
-      "__id__": 30
-    },
-    "shadows": {
       "__id__": 31
     },
-    "_skybox": {
+    "shadows": {
       "__id__": 32
     },
-    "fog": {
+    "_skybox": {
       "__id__": 33
     },
-    "octree": {
+    "fog": {
       "__id__": 34
     },
-    "lightProbeInfo": {
+    "octree": {
       "__id__": 35
+    },
+    "lightProbeInfo": {
+      "__id__": 36
     },
     "bakedWithStationaryMainLight": false,
     "bakedWithHighpLightmap": false
