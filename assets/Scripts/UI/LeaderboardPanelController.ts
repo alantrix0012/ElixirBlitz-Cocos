@@ -3,6 +3,8 @@ import { Color } from "cc";
 import { ScreenBase } from "./ScreenBase";
 import { AudioActions, ScoreActions, UIActions } from "./UIContracts";
 import { UIPanelType } from "./UIPanelType";
+import { SFXManager } from "../Audio/SFXManager";
+import { SFXType } from "../Audio/AudioEnums";
 
 interface LeaderboardEntry {
   playerName: string;
@@ -43,6 +45,7 @@ export class LeaderboardPanelController extends ScreenBase {
   private onBackClicked() {
     this.ui.show(UIPanelType.MainMenuPanel);
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private showLeaderboard() {

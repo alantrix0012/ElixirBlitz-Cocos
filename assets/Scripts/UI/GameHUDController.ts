@@ -1,4 +1,6 @@
 import * as fgui from "../../Plugins/FairyGUI/fairygui.mjs";
+import { SFXType } from "../Audio/AudioEnums";
+import { SFXManager } from "../Audio/SFXManager";
 import { ScreenBase } from "./ScreenBase";
 import {
   AudioActions,
@@ -78,6 +80,7 @@ export class GameHUDController extends ScreenBase {
   private onPauseClicked() {
     this.audio.playButtonClick();
     this.game.pauseGame();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private onInputClicked() {

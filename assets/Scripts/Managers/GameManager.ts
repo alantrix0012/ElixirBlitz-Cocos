@@ -3,6 +3,8 @@ import { Potion, PotionType } from "../Potion";
 import { PotionSpawner } from "../PotionSpawner";
 import { PotMovement } from "../PotMovement";
 import { ScoreManager } from "./ScoreManager";
+import { MusicManager } from "../Audio/MusicManager";
+import { MusicType } from "../Audio/AudioEnums";
 
 const { ccclass, property } = _decorator;
 
@@ -41,6 +43,7 @@ export class GameManager extends Component {
 
   start() {
     this.setState(GameState.MainMenu);
+    MusicManager.instance.playMusic(MusicType.Home);
   }
 
   startGame() {
@@ -50,6 +53,7 @@ export class GameManager extends Component {
     this.spawner?.initializeSpawner();
     this.pot?.resetPot();
     this.setState(GameState.Playing);
+    MusicManager.instance.playMusic(MusicType.Game);
   }
 
   onScreenClicked() {
@@ -95,12 +99,14 @@ export class GameManager extends Component {
     this._currentMisses = 0;
     this.emitMissChanged();
     this.setState(GameState.MainMenu);
+    MusicManager.instance.playMusic(MusicType.Home);
   }
 
   gameOver() {
     if (this._currentState !== GameState.Playing) return;
     ScoreManager.instance.checkForHighScore();
     this.setState(GameState.GameOver);
+    MusicManager.instance.playMusic(MusicType.GameOver);
   }
 
   retryGame() {

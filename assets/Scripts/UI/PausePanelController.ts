@@ -1,4 +1,6 @@
 import * as fgui from "../../Plugins/FairyGUI/fairygui.mjs";
+import { SFXType } from "../Audio/AudioEnums";
+import { SFXManager } from "../Audio/SFXManager";
 import { ScreenBase } from "./ScreenBase";
 import { AudioActions, GameActions } from "./UIContracts";
 
@@ -36,15 +38,18 @@ export class PausePanelController extends ScreenBase {
   private onPlayClicked() {
     this.game.resumeGame();
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private onHomeClicked() {
     this.game.goToHome();
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private onRetryClicked() {
     this.game.retryGame();
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 }

@@ -1,4 +1,6 @@
 import * as fgui from "../../Plugins/FairyGUI/fairygui.mjs";
+import { SFXType } from "../Audio/AudioEnums";
+import { SFXManager } from "../Audio/SFXManager";
 import { ScreenBase } from "./ScreenBase";
 import { AudioActions, GameActions, UIActions } from "./UIContracts";
 import { UIPanelType } from "./UIPanelType";
@@ -29,15 +31,18 @@ export class MainMenuController extends ScreenBase {
   private onPlayClicked() {
     this.game.startGame();
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private onSettingsClicked() {
     this.ui.show(UIPanelType.SettingsPanel);
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private onLeaderboardClicked() {
     this.ui.show(UIPanelType.LeaderboardPanel);
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 }

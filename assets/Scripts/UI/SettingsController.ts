@@ -1,4 +1,6 @@
 import * as fgui from "../../Plugins/FairyGUI/fairygui.mjs";
+import { SFXType } from "../Audio/AudioEnums";
+import { SFXManager } from "../Audio/SFXManager";
 import { ScreenBase } from "./ScreenBase";
 import { AudioActions, UIActions, VolumeActions } from "./UIContracts";
 import { UIPanelType } from "./UIPanelType";
@@ -68,6 +70,7 @@ export class SettingsController extends ScreenBase {
   private onBackClicked() {
     this.ui.show(UIPanelType.MainMenuPanel);
     this.audio.playButtonClick();
+    SFXManager.instance.play(SFXType.ButtonClick);
   }
 
   private setSliderValuesFromState() {
