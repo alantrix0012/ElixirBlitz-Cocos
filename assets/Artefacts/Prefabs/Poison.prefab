@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "Potion 1",
+    "_name": "Poison",
     "_objFlags": 0,
     "_native": "",
     "data": {
@@ -12,7 +12,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Potion 1",
+    "_name": "Poison",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
@@ -83,8 +83,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 190,
-      "height": 260
+      "width": 147,
+      "height": 261
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -95,7 +95,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "36nHEj8RBAjbnNAvqqwcDJ"
+    "fileId": "a6EVfCms9LDb9DiGy/wmZa"
   },
   {
     "__type__": "cc.Sprite",
@@ -119,7 +119,7 @@
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "b2c0fcb5-7162-4ddf-8994-20df19681dc4@f9941",
+      "__uuid__": "18dd9d48-7ef2-408f-8c0e-33f259d318e0@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
@@ -139,10 +139,10 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "23FvKlYpdDu719EBllcU3d"
+    "fileId": "92dI44xTJBjqzsxpggjeZ8"
   },
   {
-    "__type__": "60c1d8Lp+JGuIx2BzDkj7Lc",
+    "__type__": "cc.RigidBody2D",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -152,14 +152,27 @@
     "__prefab": {
       "__id__": 7
     },
-    "baseSpeed": 300,
-    "score": 1,
-    "potionType": 0,
+    "enabledContactListener": true,
+    "bullet": false,
+    "awakeOnLoad": true,
+    "_group": 1,
+    "_type": 1,
+    "_allowSleep": true,
+    "_gravityScale": 0,
+    "_linearDamping": 0,
+    "_angularDamping": 0,
+    "_linearVelocity": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_angularVelocity": 0,
+    "_fixedRotation": false,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "00/QFhb/FLAreiQrI1BkYI"
+    "fileId": "b2F9YJvg5M+aDAyzLnkQ1d"
   },
   {
     "__type__": "cc.BoxCollider2D",
@@ -180,22 +193,22 @@
     "_restitution": 0,
     "_offset": {
       "__type__": "cc.Vec2",
-      "x": -0.5,
-      "y": -105.3
+      "x": 1.2,
+      "y": -90.5
     },
     "_size": {
       "__type__": "cc.Size",
-      "width": 152.7,
-      "height": 49.4
+      "width": 144.6,
+      "height": 75.2
     },
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "f9M0zucOFIZZ+1Q+/gGUk0"
+    "fileId": "5apbyutPhHBIL1V0/IQzee"
   },
   {
-    "__type__": "cc.RigidBody2D",
+    "__type__": "60c1d8Lp+JGuIx2BzDkj7Lc",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -205,27 +218,14 @@
     "__prefab": {
       "__id__": 11
     },
-    "enabledContactListener": true,
-    "bullet": false,
-    "awakeOnLoad": true,
-    "_group": 1,
-    "_type": 2,
-    "_allowSleep": true,
-    "_gravityScale": 0,
-    "_linearDamping": 0,
-    "_angularDamping": 0,
-    "_linearVelocity": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "_angularVelocity": 0,
-    "_fixedRotation": false,
+    "baseSpeed": 300,
+    "score": 0,
+    "potionType": 2,
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "4a/uKlvRdAjI6JKxSahIXD"
+    "fileId": "e3bh8q3bNGIaxJvgbSb2cj"
   },
   {
     "__type__": "cc.Animation",
@@ -241,19 +241,19 @@
     "playOnLoad": true,
     "_clips": [
       {
-        "__uuid__": "934948d2-1ebd-489d-9993-301f081a2e99",
+        "__uuid__": "9f9ac68d-2571-4f3e-acce-0a759f48cc47",
         "__expectedType__": "cc.AnimationClip"
       }
     ],
     "_defaultClip": {
-      "__uuid__": "934948d2-1ebd-489d-9993-301f081a2e99",
+      "__uuid__": "9f9ac68d-2571-4f3e-acce-0a759f48cc47",
       "__expectedType__": "cc.AnimationClip"
     },
     "_id": ""
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "5fvfrul8NFn60E7odnmArM"
+    "fileId": "42baTeX99PhJMx0SU7yS5C"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -263,7 +263,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "0b6gYb1sxE1YDloF4tqj3g",
+    "fileId": "dc4hoNvX1OXYBTtWGh94Y0",
     "instance": null,
     "targetOverrides": null
   }

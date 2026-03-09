@@ -6,6 +6,7 @@ import {
   Collider2D,
   Contact2DType,
   IPhysics2DContact,
+  Enum,
 } from "cc";
 import { PotionSpawner } from "./PotionSpawner";
 import { PotMovement } from "./PotMovement";
@@ -26,7 +27,7 @@ export class Potion extends Component {
   @property
   score = 1;
 
-  @property
+  @property({ type: Enum(PotionType) })
   potionType: PotionType = PotionType.Potion1;
 
   private _spawner: PotionSpawner | null = null;

@@ -34,6 +34,7 @@ export class SFXManager extends Component {
   }
 
   play(type: SFXType) {
+    console.log("SFX request:", type, this.sfxMap);
     const clip = this.sfxMap.get(type);
     if (!clip || !this.source) return;
 
