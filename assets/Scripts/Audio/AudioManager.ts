@@ -1,11 +1,14 @@
 import { _decorator, Component } from "cc";
+import { VolumeActions } from "../UI/UIContracts";
+import { MusicManager } from "./MusicManager";
+
 const { ccclass } = _decorator;
 
 @ccclass("AudioManager")
-export class AudioManager extends Component {
+export class AudioManager extends Component implements VolumeActions {
   public static instance: AudioManager;
 
-  private masterVolume = 1;
+  private mainVolume = 1;
   private musicVolume = 1;
   private sfxVolume = 1;
 
@@ -13,23 +16,43 @@ export class AudioManager extends Component {
     AudioManager.instance = this;
   }
 
-  setMasterVolume(v: number) {
-    this.masterVolume = v;
+  setMainVolume(volume: number): void {
+    this.mainVolume = volume;
+    this.updateMusicVolume();
   }
 
-  setMusicVolume(v: number) {
-    this.musicVolume = v;
+  setMusicVolume(volume: number): void {
+    this.musicVolume = volume;
+    this.updateMusicVolume();
   }
 
-  setSFXVolume(v: number) {
-    this.sfxVolume = v;
+  setSfxVolume(volume: number): void {
+    this.sfxVolume = volume;
   }
 
-  getMusicVolume() {
-    return this.masterVolume * this.musicVolume;
+  getMainVolume(): number {
+    return this.mainVolume;
   }
 
-  getSFXVolume() {
-    return this.masterVolume * this.sfxVolume;
+  getMusicVolume(): number {
+    return this.musicVolume;
+  }
+
+  getSfxVolume(): number {
+    return this.sfxVolume;
+  }
+
+  getFinalMusicVolume(): number {
+    return this.mainVolume * this.musicVolume;
+  }
+
+  getFinalSfxVolume(): number {
+    return this.mainVolume * this.sfxVolume;
+  }
+
+  private updateMusicVolume() {
+    if (MusicManager.instance) {
+      MusicManager.instance.updateVolume();
+    }
   }
 }

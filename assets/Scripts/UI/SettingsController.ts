@@ -24,6 +24,8 @@ export class SettingsController extends ScreenBase {
     this.sfxSlider = this.popup.getChild("SFXVolSlider") as fgui.GSlider;
 
     this.init();
+
+    console.log("Volumes object:", volumes);
   }
 
   override hide() {

@@ -19,6 +19,7 @@ import { LeaderboardPanelController } from "../UI/LeaderboardPanelController";
 import { GameHUDController } from "../UI/GameHUDController";
 import { PausePanelController } from "../UI/PausePanelController";
 import { GameOverController } from "../UI/GameOverController";
+import { AudioManager } from "../Audio/AudioManager";
 
 const { ccclass, property } = _decorator;
 
@@ -49,6 +50,7 @@ export class UIManager extends Component implements UIActions {
 
   onLoad() {
     UIManager.instance = this;
+
     this.ensureGRoot();
 
     const visibleSize = view.getVisibleSize();
@@ -56,10 +58,13 @@ export class UIManager extends Component implements UIActions {
 
     if (this.gameFont) {
       fgui.registerFont("GameFont", this.gameFont);
-      console.log("UIManager: Registered game font with FairyGUI.");
     }
 
     this.loadUIPackage();
+  }
+
+  start() {
+    this.setVolumeBridge(AudioManager.instance);
   }
 
   private loadUIPackage() {

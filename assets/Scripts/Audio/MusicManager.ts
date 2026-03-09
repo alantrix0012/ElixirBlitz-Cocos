@@ -46,7 +46,12 @@ export class MusicManager extends Component {
     this.source.stop();
     this.source.clip = clip;
     this.source.loop = true;
-    this.source.volume = AudioManager.instance.getMusicVolume();
+    this.updateVolume();
     this.source.play();
+  }
+
+  updateVolume() {
+    if (!this.source) return;
+    this.source.volume = AudioManager.instance.getFinalMusicVolume();
   }
 }

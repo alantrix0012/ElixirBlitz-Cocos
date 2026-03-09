@@ -35,9 +35,10 @@ export class SFXManager extends Component {
 
   play(type: SFXType) {
     const clip = this.sfxMap.get(type);
-    if (!clip) return;
+    if (!clip || !this.source) return;
 
-    this.source.playOneShot(clip, AudioManager.instance.getSFXVolume());
+    this.source.playOneShot(clip, AudioManager.instance.getFinalSfxVolume());
+
     console.log(`Playing SFX: ${SFXType[type]}`);
   }
 }
