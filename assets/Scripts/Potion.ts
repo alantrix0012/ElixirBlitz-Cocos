@@ -87,7 +87,10 @@ export class Potion extends Component {
     _contact: IPhysics2DContact | null,
   ) {
     console.log(`Potion ${this.node.name} collided with ${other.node.name}`);
-    if (other.getComponent(PotMovement)) {
+    const pot = other.getComponent(PotMovement);
+
+    if (pot) {
+      pot.playCatchEffect();
       this.onCollected();
     }
   }

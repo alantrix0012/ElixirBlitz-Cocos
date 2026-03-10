@@ -4,6 +4,7 @@ import {
   EventMouse,
   Input,
   input,
+  ParticleSystem2D,
   Vec3,
   view,
 } from "cc";
@@ -14,6 +15,9 @@ const { ccclass, property } = _decorator;
 export class PotMovement extends Component {
   @property
   moveSpeed = 10;
+
+  @property(ParticleSystem2D)
+  catchParticle: ParticleSystem2D | null = null;
 
   private positions: Vec3[] = [];
   private currentIndex = 1;
@@ -45,6 +49,13 @@ export class PotMovement extends Component {
 
   handleInput() {
     this.currentIndex = (this.currentIndex + 1) % this.positions.length;
+  }
+
+  playCatchEffect() {
+    if (!this.catchParticle) return;
+
+    console.log("Playing catch effect");
+    this.catchParticle.resetSystem();
   }
 
   resetPot() {
